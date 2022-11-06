@@ -1,8 +1,8 @@
 <h1>JavaScript Notes</h1>
 
-Ao criar o aplicativo tive como aprendizado:
+Ao criar o sistea tive como aprendizado:
 
-- Como Realizar o planejamento mínimo de um APP.
+- Como Realizar o planejamento mínimo de um sistema.
 - Desenvolver um Backend organizado.
 - Criar rotas com REACT-ROUTER-DOM.
 - Incluir autenticação com JWT.
