@@ -27,8 +27,10 @@ function RegisterForm() {
     try {
       await UserService.register({ name, email, password });
       setRedirectToLogin(true);
-    } catch (e) {
+      console.log("Usuario registrado com sucesso!");
+    } catch (error) {
       setError(true);
+      console.log("Ocorreu um erro ao registrar o usuario!"); 
     }
   };
 
