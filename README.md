@@ -2,7 +2,7 @@
 
 https://projeto1clientjs.herokuapp.com
 
-Ao criar o sistea tive como aprendizado:
+Ao criar o sistema tive como aprendizado:
 
 - Como Realizar o planejamento mínimo de um sistema.
 - Desenvolver um Backend organizado.
