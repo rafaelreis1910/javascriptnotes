@@ -1,6 +1,6 @@
 <h1>JavaScript Notes</h1>
 
-https://projeto1clientjs.herokuapp.com
+https://javascriptnotes-tan.vercel.app
 
 Ao criar o sistema tive como aprendizado:
 
